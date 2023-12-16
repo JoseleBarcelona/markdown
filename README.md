@@ -9,8 +9,8 @@ ___
 * arroz
 ___
 1. sal
-   1. anidación
-   2. de lista
+   * anidación
+   * de lista
 2. habas
 3. arroz
 ___

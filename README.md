@@ -67,7 +67,8 @@ public class Pruebas{
 
 ***Texto en negrita y cursiva***
 
-<j.a.g.t.blog1@gmail.com>
+<124534590+JoseleBarcelona@users.noreply.github.com
+>
 
 <https://docs.oracle.com/javase/8/docs/api/>
 
